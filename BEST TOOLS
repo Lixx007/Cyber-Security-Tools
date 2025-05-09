@@ -1,0 +1,51 @@
+Reconnaissance(Information Gathering)
+1. Nmap – For scanning open ports and services on a target.
+2. Amass – For subdomain enumeration and passive reconnaissance.
+3. Shodan – To gather information about exposed devices and services.
+4. theHarvester – For email, subdomain, and domain-related enumeration.
+5. Assetfinder – To discover subdomains for a target.
+
+---
+
+Vulnerability Discovery
+6. Burp Suite – For intercepting and manipulating HTTP/HTTPS traffic.
+7. OWASP ZAP – An open-source alternative to Burp Suite for scanning vulnerabilities.
+8. Nikto – A simple web server scanner for detecting outdated or insecure server setups.
+9. SQLmap – For detecting and exploiting SQL injection vulnerabilities.
+10. Dirb/Dirbuster – For brute-forcing directories and files on a web server.
+
+---
+
+Testing Authentication and Sessions
+11. JWT Toolkit – For testing JSON Web Token vulnerabilities.
+12. Hydra – For brute-forcing login credentials.
+13. NoSQLMap – To exploit NoSQL injection vulnerabilities.
+
+---
+
+Exploitation
+14. XSStrike – For advanced cross-site scripting (XSS) detection.
+15. Commix – To exploit command injection vulnerabilities.
+16. XSSer – For testing XSS vulnerabilities.
+
+---
+
+Post-Exploitation
+17. Metasploit Framework – For exploiting known vulnerabilities and privilege escalation.
+18. Cobalt Strike – (Advanced) For post-exploitation tasks in red teaming.
+
+---
+
+Fuzzing and Automation
+19. FFUF – For fast web fuzzer and parameter discovery.
+20. Wfuzz – For fuzzing GET/POST requests to find hidden parameters or directories.
+
+---
+
+Source Code and Dependency Analysis
+21. Retire.js – To identify outdated JavaScript libraries.
+22. GitLeaks – To find sensitive information in Git repositories.
+23. Semgrep – For lightweight static code analysis.
+
+---
+
